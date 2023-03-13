@@ -1,4 +1,4 @@
-# Nome da Galera
+# Nomes
 - Fillipe Albuquerque
 - Guilherme Oliveira Peres
 - Gabriel Cardoso
